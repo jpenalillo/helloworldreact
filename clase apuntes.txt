@@ -1,0 +1,2 @@
+de src solo importan los archivos 
+App.js y index.js, los demás borrar
